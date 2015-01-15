@@ -1,0 +1,5 @@
+## YAML Template.
+services:
+    fkdatatables: 
+        class: FabriceKabongo\Symfony\FKDataTablesBundle\Services\SSP
+        arguments: [@doctrine]
