@@ -1,6 +1,8 @@
 {
     "name": "fabrice-kabongo/fkdatatablesbundle",
     "description": "A bundle that helps you to deal with datatables.net library by providing a usefull database access",
+    "licence": "GPL-3.0+",
+    "version": "1.0.0.0",
     "authors": [
         {
             "name": "Fabrice Kabongo",
